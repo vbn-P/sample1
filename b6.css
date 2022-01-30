@@ -1,0 +1,39 @@
+img{
+    width: 120px;
+}
+.para
+{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom:30px;
+}
+form
+{
+    border:1px solid black;
+    border-radius:5px;
+    margin: 90px 00px;
+    text-align: center;
+    padding: 10px;
+    background-color: azure;
+}
+.elon
+{
+    text-align: center;
+    background-color:rgb(196, 218, 226);
+    align-items: center;
+    padding: 10px;
+}
+.card
+{
+    border: 0px;
+    margin: 30px;
+    background-color: rgb(195, 220, 230);
+}
+.formsub
+{
+   text-align: center;
+}
+html
+ {
+    scroll-behavior: smooth;
+  }
